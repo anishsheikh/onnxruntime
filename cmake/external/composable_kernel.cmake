@@ -1,4 +1,4 @@
-set(PATCH ${PROJECT_SOURCE_DIR}/patches/composable_kernel/Fix_Clang_Build.patch)
+set(PATCH ${PROJECT_SOURCE_DIR}/patches/composable_kernel/ck.patch)
 
 include(FetchContent)
 FetchContent_Declare(composable_kernel
